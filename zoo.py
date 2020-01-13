@@ -10,6 +10,8 @@ zoo =("dog","cat","spider","cockroach","fish","ant","bird","peacock","snake","mo
 # print(animal5)
 
 zoolist=list(zoo)
+moreAnimals = ["bat","tiger","rabbit"]
+zoolist.extend(moreAnimals)
 print(zoolist)
 
 
