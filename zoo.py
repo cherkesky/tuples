@@ -7,5 +7,9 @@ zoo =("dog","cat","spider","cockroach","fish","ant","bird","peacock","snake","mo
 
 (animal1,animal2,animal3,animal4,animal5,animal6,animal7,animal8,animal9,animal10) = zoo
 
+# print(animal5)
 
-print(animal5)
+zoolist=list(zoo)
+print(zoolist)
+
+
